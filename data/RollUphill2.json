@@ -1,0 +1,153 @@
+[
+  {
+    "type": "positionOff",
+    "timestamp": 1000,
+    "intensity": 100,
+    "positionNum": 5
+  },
+  {
+    "type": "legPlacement",
+    "timestamp": 2000,
+    "intensity": -0.2,
+    "positionNum": 2
+  },
+  {
+    "type": "legPlacement",
+    "timestamp": 2400,	
+    "intensity": -0.4,
+    "positionNum": 2
+  },
+  {
+    "type": "positionOff",
+    "timestamp": 3000,
+    "intensity": 1.01,
+    "positionNum": 1
+
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 4400,
+    "intensity": 0.98,
+    "positionNum": 1
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 4500,
+    "intensity": 0.97,
+    "positionNum": 3
+  },
+  {
+    "type": "positionOff",
+    "timestamp": 5500,
+    "intensity": 100,
+    "positionNum": 2
+  },
+  {
+    "type": "legPlacement",
+    "timestamp": 7000,
+    "intensity": -0.2,
+    "positionNum": 1
+  },
+  {
+    "type": "legPlacement",
+    "timestamp": 7400,
+    "intensity": 0,
+    "positionNum": 1
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 7500,
+    "intensity": 0.98,
+    "positionNum": 5
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 7800,
+    "intensity": 1.0,
+    "positionNum": 1
+  },
+  {
+    "type": "positionOff",
+    "timestamp": 9700,
+    "intensity": 0.97,
+    "positionNum": 5
+  },
+  {
+    "type": "legPlacement",
+    "timestamp": 11000,
+    "intensity": 0.2,
+    "positionNum": 4
+  },
+  {
+    "type": "legPlacement",
+    "timestamp":  11600,
+    "intensity": 0.4,
+    "positionNum": 1
+  },
+  {
+    "type": "legPlacement",
+    "timestamp": 13000,
+    "intensity": 0.6,
+    "positionNum": 1
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 13500,
+    "intensity": 1.01,
+    "positionNum": 5
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 14000,
+    "intensity": 1.04,
+    "positionNum": 5
+  },
+  {
+    "type": "positionOff",
+    "timestamp": 14200,
+    "intensity": 100,
+    "positionNum": 2
+  },
+  {
+    "type": "positionOff",
+    "timestamp": 16000,
+    "intensity": 100,
+    "positionNum": 2
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 16700,
+    "intensity": 1.02,
+    "positionNum": 5
+  },
+  {
+    "type": "legPlacement",
+    "timestamp": 16900,
+    "intensity": 0.4,
+    "positionNum": 5
+  },
+  {
+    "type": "legPlacement",
+    "timestamp": 17400,
+    "intensity": 0.2,
+    "positionNum": 5
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 17600,
+    "intensity": 1.00,
+    "positionNum": 5
+  },
+  {
+    "type": "positionOff",
+    "timestamp": 19000,
+    "intensity": 100,
+    "positionNum": 2
+  },
+  {
+    "type": "legPlacement",
+    "timestamp": 19200,
+    "intensity": 0.0,
+    "positionNum": 5
+  }
+]

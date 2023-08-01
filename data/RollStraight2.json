@@ -1,0 +1,93 @@
+[
+  {
+    "type": "positionOff",
+    "timestamp": 1000,
+    "intensity": 100,
+    "positionNum": 3
+  },
+  {
+    "type": "positionOff",
+    "timestamp": 1750,
+    "intensity": 100,
+    "positionNum": 2
+  },
+  {
+    "type": "positionOff",
+    "timestamp": 2750,	
+    "intensity": 100,
+    "positionNum": 2
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 4000,
+    "intensity": 1.01,
+    "positionNum": 1
+
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 4400,
+    "intensity": 1.02,
+    "positionNum": 1
+  },
+  {
+    "type": "positionOff",
+    "timestamp": 4500,
+    "intensity": 100,
+    "positionNum": 3
+  },
+  {
+    "type": "positionOff",
+    "timestamp": 5500,
+    "intensity": 100,
+    "positionNum": 5
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 7000,
+    "intensity": 1.001,
+    "positionNum": 1
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 7300,
+    "intensity": 1.00,
+    "positionNum": 1
+  },
+  {
+    "type": "positionOff",
+    "timestamp": 8300,
+    "intensity": 100,
+    "positionNum": 5
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 9300,
+    "intensity": 0.985,
+    "positionNum": 1
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 9700,
+    "intensity": 0.97,
+    "positionNum": 1
+  },
+  {
+    "type": "positionOff",
+    "timestamp": 11000,
+    "intensity": 100,
+    "positionNum": 2
+  },
+  {
+    "type": "rollingOff",
+    "timestamp":  12500,
+    "intensity": 0.985,
+    "positionNum": 1
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 13900,
+    "intensity": 0.98,
+    "positionNum": 1
+  }
+]
