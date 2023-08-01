@@ -1,0 +1,213 @@
+[
+  {
+    "type": "positionOff",
+    "timestamp": 1000,
+    "intensity": 100,
+    "positionNum": 0
+  },
+  {
+    "type": "legPlacement",
+    "timestamp": 2000,
+    "intensity": -0.2,
+    "positionNum": 2
+  },
+  {
+    "type": "legPlacement",
+    "timestamp": 2400,	
+    "intensity": -0.4,
+    "positionNum": 2
+  },
+  {
+    "type": "positionOff",
+    "timestamp": 3000,
+    "intensity": 1.01,
+    "positionNum": 2
+
+  },
+  {
+    "type": "midlineCloseness",
+    "timestamp": 4400,
+    "intensity": 25,
+    "positionNum": 1
+  },
+  {
+    "type": "midlineCloseness",
+    "timestamp": 4800,
+    "intensity": 50,
+    "positionNum": 3
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 5500,
+    "intensity": 1.015,
+    "positionNum": 2
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 7000,
+    "intensity": 1.03,
+    "positionNum": 1
+  },
+  {
+    "type": "legPlacement",
+    "timestamp": 7400,
+    "intensity": -0.5,
+    "positionNum": 1
+  },
+  {
+    "type": "positionOff",
+    "timestamp": 7700,
+    "intensity": 0.98,
+    "positionNum": 2
+  },
+  {
+    "type": "midlineCloseness",
+    "timestamp": 7800,
+    "intensity": 15,
+    "positionNum": 1
+  },
+  {
+    "type": "midlineCloseness",
+    "timestamp": 8300,
+    "intensity": 0,
+    "positionNum": 5
+  },
+  {
+    "type": "legPlacement",
+    "timestamp": 9300,
+    "intensity": -0.25,
+    "positionNum": 4
+  },
+  {
+    "type": "legPlacement",
+    "timestamp":  9800,
+    "intensity": 0,
+    "positionNum": 1
+  },
+  {
+    "type": "positionOff",
+    "timestamp": 11500,
+    "intensity": 0.6,
+    "positionNum": 0
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 11700,
+    "intensity": 1.01,
+    "positionNum": 5
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 12200,
+    "intensity": 1.00,
+    "positionNum": 5
+  },
+  {
+    "type": "midlineCloseness",
+    "timestamp": 14200,
+    "intensity": -10.0,
+    "positionNum": 2
+  },
+  {
+    "type": "midlineCloseness",
+    "timestamp": 15000,
+    "intensity": -30.0,
+    "positionNum": 2
+  },
+  {
+    "type": "midlineCloseness",
+    "timestamp": 16000,
+    "intensity": -50.0,
+    "positionNum": 5
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 16900,
+    "intensity": 0.98,
+    "positionNum": 5
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 17400,
+    "intensity": 0.96,
+    "positionNum": 5
+  },
+  {
+    "type": "positionOff",
+    "timestamp": 17600,
+    "intensity": 1.00,
+    "positionNum": 3
+  },
+  {
+    "type": "midlineCloseness",
+    "timestamp": 19000,
+    "intensity": -30.0,
+    "positionNum": 2
+  },
+  {
+    "type": "midlineCloseness",
+    "timestamp": 19400,
+    "intensity": -10.0,
+    "positionNum": 5
+  },
+  {
+    "type": "midlineCloseness",
+    "timestamp": 19900,
+    "intensity": 0.0,
+    "positionNum": 5
+  },
+  {
+    "type": "legPlacement",
+    "timestamp": 20500,
+    "intensity": 0.3,
+    "positionNum": 5
+  },
+  {
+    "type": "legPlacement",
+    "timestamp": 20900,
+    "intensity": 0.6,
+    "positionNum": 5
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 21400,
+    "intensity": 0.98,
+    "positionNum": 5
+  },
+  {
+    "type": "rollingOff",
+    "timestamp": 21600,
+    "intensity": 1.0,
+    "positionNum": 5
+  },
+  {
+    "type": "positionOff",
+    "timestamp": 22000,
+    "intensity": 0.0,
+    "positionNum": 2
+  },
+  {
+    "type": "legPlacement",
+    "timestamp": 23000,
+    "intensity": 0.3,
+    "positionNum": 5
+  },
+  {
+    "type": "legPlacement",
+    "timestamp": 23400,
+    "intensity": 0.0,
+    "positionNum": 5
+  },
+  {
+    "type": "midlineCloseness",
+    "timestamp": 23450,
+    "intensity": 20.0,
+    "positionNum": 5
+  },
+  {
+    "type": "midlineCloseness",
+    "timestamp": 23800,
+    "intensity": 50.0,
+    "positionNum": 5
+  }
+]
